@@ -1,0 +1,4 @@
+Project worked on ---> PANTHER PICK PRODUCT STUDENT SPREADSHEET: 
+
+Distinct count: Create a column in main table that counts each time a category appears and then divdies by one so the subsequent pivot table will add up ad give us the exact number of categories 
+=1/COUNTIF(B:B,[@Country])
